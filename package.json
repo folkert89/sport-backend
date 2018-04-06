@@ -1,0 +1,7 @@
+{
+  "name": "sport-api",
+  "version": "1.0.0",
+  "description": "Restful api to manage sport",
+  "main": "index.js",
+  "license": "MIT"
+}
