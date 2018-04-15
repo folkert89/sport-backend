@@ -1,5 +1,5 @@
 const express = require('express')
-
+const { Event } = require('./models')
 const PORT = process.env.PORT || 3030
 
 let app = express()
